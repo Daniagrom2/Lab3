@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{484E4078-C372-4F63-8B55-36F23242E9F2}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="KrossLab_3/Program.cs" Line="9" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KrossLab_3" expanded="True">
+            <Node name="KrossLab_3" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="ClassLibrary1.dll" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KrossLab__3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

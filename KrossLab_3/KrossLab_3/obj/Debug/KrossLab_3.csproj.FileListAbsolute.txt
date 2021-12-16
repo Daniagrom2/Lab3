@@ -1,0 +1,8 @@
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/bin/Debug/KrossLab_3.exe
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/bin/Debug/KrossLab_3.pdb
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/bin/Debug/ClassLibrary1.dll
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/obj/Debug/KrossLab_3.csproj.AssemblyReference.cache
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/obj/Debug/KrossLab_3.csproj.CoreCompileInputs.cache
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/obj/Debug/KrossLab_3.csproj.CopyComplete
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/obj/Debug/KrossLab_3.exe
+/Users/Danik/Projects/KrossLab_3/KrossLab_3/obj/Debug/KrossLab_3.pdb
